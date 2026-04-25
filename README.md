@@ -12,7 +12,7 @@ Application de gestion des étudiants développée en L2 Informatique de Gestion
 - Afficher la liste
 
 ## Technologies utilisées
-- Python / Java (selon ton langage)
+- Python / Java/c#
 
 ## Auteur
 Djariata SOW — djaryatasow2
